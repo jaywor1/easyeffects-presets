@@ -1,6 +1,6 @@
-# easyeffects-presets
+# Easy Effects Presets
 
-Easyeffects presets, feel free to contribute with yours using MR
+Feel free to contribute with yours using MR!
 
 ## Presets
 
